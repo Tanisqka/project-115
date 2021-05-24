@@ -1,0 +1,8 @@
+h3{
+    font-size: 25px !important;
+}
+canvas{
+    border: ridge;
+    border-color: aqua;
+    border-width: 5px;
+}
